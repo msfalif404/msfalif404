@@ -13,6 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/msfalif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msfalif" height="30" width="40" /></a>
 <a href="https://fb.com/msfalif404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msfalif404" height="30" width="40" /></a>
+<a href="https://instagram.com/falifantastic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="falifantastic" height="30" width="40" /></a>
+<a href="https://medium.com/@msfalif404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@msfalif404" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
