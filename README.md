@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, Laravel 7, React.js 16, Python**
 
-- 📫 How to reach me **msfalif404workspace@gmail.com**
+- 📫 How to reach me **msfalif404@gmail.com**
 
 - ⚡ Fun fact **Very curious about new things.**
 
