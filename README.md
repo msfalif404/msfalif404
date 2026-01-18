@@ -2,6 +2,8 @@
 <h3 align="center">A passionate AI & Software Engineer</h3>
 
 - 🌱 I’m currently learning **LLM, AI Agent, and Agentic AI**
+- 📚 I enjoy reading books from **No Starch Press, Manning Publications, O’Reilly, and Packt**
+- ✍️ I like to share my journey on my **Medium**
 - ⚡ Fun fact **Very curious about new things.**
 
 <h3 align="left">Connect with me:</h3>
